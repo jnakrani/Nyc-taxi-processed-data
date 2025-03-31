@@ -1,0 +1,12 @@
+pandas
+numpy
+boto3
+dask
+pyarrow
+scikit-learn
+xgboost
+matplotlib
+seaborn
+tqdm
+psutil
+sagemaker
